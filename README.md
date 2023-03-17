@@ -1,6 +1,6 @@
 ### Hi, I'm Renata Pinheiro
 
-- 🌱 I’m currently learning JS
+- 🌱 Currently learning JS
 - 💬 Ask me about Origamis
 - 😄 Pronouns: she/her
 
